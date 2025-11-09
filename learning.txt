@@ -1,6 +1,6 @@
-Create a New File Locally:
+What I have learned from this course
 
-On your local machine, navigate to the folder where your repository was cloned.
+local machine, navigate to the folder where your repository was cloned.
 Create a new text file called learning.txt.
 In the file, write a short paragraph about something you’ve learned so far in this course.
 Commit the Changes Locally:
